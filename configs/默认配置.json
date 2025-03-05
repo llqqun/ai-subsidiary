@@ -1,0 +1,18 @@
+{
+    "game_name": "默认配置",
+    "game_type": "通用",
+    "control_keys": [
+        "上移: W",
+        "下移: S",
+        "左移: A",
+        "右移: D",
+        "确认: Space",
+        "取消: Esc",
+        "互动: E",
+        "跳跃: Space",
+        "攻击: Mouse1",
+        "防御: Mouse2"
+    ],
+    "reward_rules": [],
+    "state_indicators": []
+}

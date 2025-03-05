@@ -1,0 +1,12 @@
+{
+    "game_name": "3d",
+    "game_type": "冒险",
+    "control_keys": [
+        "w: W",
+        "s: S",
+        "a: A",
+        "d: D"
+    ],
+    "reward_rules": [],
+    "state_indicators": []
+}

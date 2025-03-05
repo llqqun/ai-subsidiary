@@ -1,0 +1,9 @@
+{
+    "game_name": "GB11",
+    "game_type": "冒险",
+    "control_keys": [
+        "w: A"
+    ],
+    "reward_rules": [],
+    "state_indicators": []
+}

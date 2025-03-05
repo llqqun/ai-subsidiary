@@ -1,0 +1,9 @@
+{
+    "game_name": "GB",
+    "game_type": "冒险",
+    "control_keys": [
+        "q: W"
+    ],
+    "reward_rules": [],
+    "state_indicators": []
+}
